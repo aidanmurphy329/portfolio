@@ -6,9 +6,9 @@
 
 # Demo :movie_camera:
 
-![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yg7pbgnih9nziulfu3u9.gif)
+![](https://drive.google.com/file/d/1JQY-zR-MSYa9R7Uys0rJLD8UjYIAZmb8/view?usp=sharing)
 
-## View live demo [here](https://abusaid.netlify.app/).
+## View live demo [here](https://aidanmurphy329.github.io/portfolio/).
 
 ---
 
@@ -398,46 +398,3 @@ export const educationData = [
 - [Roboto](https://fonts.google.com/specimen/Roboto)
 
 ---
-
-<!--
-# Contributors :man_technologist::woman_technologist:
-
-<div>
-    <table>
-        <tr>
-            <td align="center"><a href="https://github.com/said7388"><img src="https://i.ibb.co/ZmdNH6x/abu-said.jpg" width="135px;" height="135px;" alt=""/><br /><b>Abu Said</b></a></td>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://hhhrrrttt222111.web.app/static/media/dp.5f7c380f.jpeg" width="135px;" height="135px;" alt=""/><br /><b>Hemanth R</b></a></td>
-        </tr>
-    </table>
-</div> -->
-
-<!--
-## Setting Up Contacts form :envelope_with_arrow:
-
-> ### Follow these [instructions](https://github.com/hhhrrrttt222111/developer-portfolio/wiki/Contacts) to connect contacts form with Google Sheet
-
-
-
-
-
-
-# Upcoming Features :construction:
-
-- Light/Dark theme toggle
-- More illustrations to choose from
-- Achievements and Awards section
-- More fonts to choose from
-
-<br /><br />
-
-## Raise an issue for...
-
-- Found a bug
-- New theme
-- Can't find required skill in Skills section
-- Add new social media profile
-- Add new service
-- Add another section
-
-
-<br /> -->
