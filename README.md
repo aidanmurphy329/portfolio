@@ -6,7 +6,7 @@
 
 # Demo :movie_camera:
 
-![](https://drive.google.com/file/d/1JQY-zR-MSYa9R7Uys0rJLD8UjYIAZmb8/view?usp=sharing)
+![](https://ibb.co/VT0wfrW)
 
 ## View live demo [here](https://aidanmurphy329.github.io/portfolio/).
 
