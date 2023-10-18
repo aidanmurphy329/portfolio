@@ -2,7 +2,7 @@
   "name": "developer-portfolio-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aidanmurphy329.github.io/portfoliio",
+  "homepage": "https://aidanmurphy329.github.io/portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@emotion/react": "^11.10.5",
