@@ -4,10 +4,6 @@
 
 ---
 
-# Demo :movie_camera:
-
-![](https://ibb.co/VT0wfrW)
-
 ## View live demo [here](https://aidanmurphy329.github.io/portfolio/).
 
 ---
